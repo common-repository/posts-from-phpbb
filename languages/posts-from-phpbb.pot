@@ -1,0 +1,80 @@
+# Copyright (C) 2023 New Posts from phpBB
+# This file is distributed under the same license as the New Posts from phpBB package.
+msgid ""
+msgstr ""
+"Project-Id-Version: New Posts from phpBB 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/posts-from-phpbb\n"
+"POT-Creation-Date: 2023-11-18 17:18:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: widget/class-posts-from-phpbb-widget.php:21
+msgid "Display new posts from your phpbb forum"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:26
+msgid "New Posts from Your phpBB Forum"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:65
+msgid "Forum URL"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:69
+msgid "Database User"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:73
+msgid "Database Password"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:77
+msgid "Database Name"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:81
+msgid "Database Host"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:85
+msgid "Title"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:89
+msgid "Number of new forum posts to show"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:93
+msgid "Fields marked with an asterisk (*) are required"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:130
+msgid "by"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:130
+msgid "on"
+msgstr ""
+
+#: widget/class-posts-from-phpbb-widget.php:136
+msgid "No posts available."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "New Posts from phpBB"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.wordpress.org/posts-from-phpbb"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A widget plugin that grabs your recent phpBB forum posts for you to display on your WordPress site"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "kikipress"
+msgstr ""
